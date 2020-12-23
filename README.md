@@ -3,11 +3,7 @@
     <a href="https://github.com/ziishaned/learn-regex">
         <img src="https://i.imgur.com/bYwl7Vf.png" alt="Learn Regex">
     </a>
-    <br /><br />
-    <p>
-        
     </p>
-</p>
 
 
 ## What is Regular Expression?
