@@ -5,12 +5,7 @@
     </a>
     <br /><br />
     <p>
-        <a href="https://twitter.com/ziishaned">
-            <img src="https://img.shields.io/twitter/follow/ziishaned.svg?style=social" />
-        </a>
-        <a href="https://github.com/ziishaned">
-            <img src="https://img.shields.io/github/followers/ziishaned.svg?label=Follow%20%40ziishaned&style=social" />
-        </a>
+        
     </p>
 </p>
 
